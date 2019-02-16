@@ -1,0 +1,2 @@
+# 2019Test-useGitHubToMockData
+使用github这个静态服务器去mock数据
